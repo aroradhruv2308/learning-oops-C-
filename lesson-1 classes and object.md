@@ -20,3 +20,16 @@ In pop the global data is made if you need to make that data access to several f
 
 OOP is object oriented language it was made to remove some of the drawbacks by the procedure orented language. Here the data is considered to be important hence it is not allowed to freely flow in whole programme. This language divides the programme into various entities known as objects and now the data and fuctions are build accross these ententities. An object is collection of the data and function the function can communicate with the other object function but the data remains entact
 The object binds the function and data and protects it from the accidental modification from the other function examples - C++, java,python ,C# etc
+
+### Additional Features of Object Oriented Programming  that is not pressent in pop
+
+#### 1 - Object </br>
+#### 2 - Classes </br>
+#### 3 - Data encapsulation</br>
+#### 4 - Data Hiding </br>
+#### 5 - Data abstraction </br>
+#### 6 - Inheretance </br>
+#### 7 - Polymorphism </br>
+#### 8 - Dynamic Binding </br>
+#### 9 - Message Passing </br>
+
