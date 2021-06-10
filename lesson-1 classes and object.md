@@ -13,3 +13,10 @@ student A;
 ```
 here we declared the class of student 
 
+### POP && OOP??
+
+pop is procedural oriented language in this type of language the programme is divided in to mini programms so that the whole work in the programm can be divided into various segments in the pop the data is not given the importance the data moves freely along the whole programme but the main focus is given to the procedure
+In pop the global data is made if you need to make that data access to several functions(procedures)  so this is the main drawback of the pop because the data is not secure it can be changed by any function if it is declared globally examples - C,COBOL,Fortran,Basic
+
+OOP is object oriented language it was made to remove some of the drawbacks by the procedure orented language. Here the data is considered to be important hence it is not allowed to freely flow in whole programme. This language divides the programme into various entities known as objects and now the data and fuctions are build accross these ententities. An object is collection of the data and function the function can communicate with the other object function but the data remains entact
+The object binds the function and data and protects it from the accidental modification from the other function examples - C++, java,python ,C# etc
